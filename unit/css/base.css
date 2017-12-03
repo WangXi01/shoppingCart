@@ -397,3 +397,5 @@ input[type="text"], textarea {
     -ms-transform: rotate(40deg);
         transform: rotate(40deg);
     transition: all .3s ease-out; }
+    
+.hideAll{display: none;}
